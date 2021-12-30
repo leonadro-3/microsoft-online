@@ -3,7 +3,7 @@
 
 ### 학교에서 4차 산업에 대응하기 위한 무료 온라인 강의를 제공하는 데 솔직히 한국에 시중에 있는 정~~~~말 많은 무료 강의와 유료 강의를 들었던 나로썬 살짝 의심이 되기도 했다. 심심해서 찍먹해보는 것으로 큰 기대를 하지 않았으면 좋겠다.
 
-# 1교시 [Logic and Computational Thinking](https://miledu.microsoft.com/courses/course-v1:Microsoft+DEV262x+2019_T1/about)(논리와 컴퓨터적인 사고)
+## 1교시 [Logic and Computational Thinking](https://miledu.microsoft.com/courses/course-v1:Microsoft+DEV262x+2019_T1/about)(논리와 컴퓨터적인 사고)
 
 > 응? 프로그래밍을 배우는 데 철학이 필요하다고? 맨날 하는 0, 1 비트 개념이나 말하는 쌉노잼 대부분의 입문서들의 시작과는 좀 다른 이야기를 한다. [Paul Pardi](https://www.edx.org/bio/paul-pardi)는 1교시를 가르치는 사람인데 마소에서 20년동안 일한 쌉 고인물이라고 한다. 3년전 영상이니깐 지금은 더 늙었을 지도... 은퇴 후 마소 교육자로 제 2의 인생을 사시는 분인 것 같다. 
 
